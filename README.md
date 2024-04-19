@@ -15,3 +15,7 @@
 ### Bash
 - [Commandes Bash - Mémo](https://www.laulem.com/dev/bash-memo.html)
 - [BASH - Mémo pour scripter](https://www.linuxtricks.fr/wiki/bash-memo-pour-scripter)
+
+
+## Autres
+[Projet cluster Proxmox, étudiants de TSSR en 2022, Quelques tutos en rapport avec la formation mais potentiellement pas tout à fait à jour](https://pierrezoltan.github.io/)
