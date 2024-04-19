@@ -1,7 +1,7 @@
 # howto-s
 
 ## Sites utiles:
-[it-connect.fr](https://it-connect.fr) plein de tutos pour tout
+- [it-connect.fr](https://it-connect.fr) plein de tutos pour tout
 
 ## Active directory
 ### GPO
@@ -11,12 +11,12 @@
 
 ## Linux
 ### Commandes utiles
-[wallpaper commandes linux](linux-wallpaper-for-beginners.jpg)
+- [wallpaper commandes linux](linux-wallpaper-for-beginners.jpg)
 ### Bash
 - [Commandes Bash - Mémo](https://www.laulem.com/dev/bash-memo.html)
 - [BASH - Mémo pour scripter](https://www.linuxtricks.fr/wiki/bash-memo-pour-scripter)
 
 
 ## Autres
-[Projet cluster Proxmox, étudiants de TSSR en 2022, Quelques tutos en rapport avec la formation mais potentiellement pas tout à fait à jour](https://pierrezoltan.github.io/)
-[Calculatrice de sous-réseau pour IPV4](https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html)
+- [Projet cluster Proxmox, étudiants de TSSR en 2022, Quelques tutos en rapport avec la formation mais potentiellement pas tout à fait à jour](https://pierrezoltan.github.io/)
+- [Calculatrice de sous-réseau pour IPV4](https://www.site24x7.com/fr/tools/ipv4-sous-reseau-calculatrice.html)
