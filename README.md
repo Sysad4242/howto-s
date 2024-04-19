@@ -10,4 +10,8 @@
 - [GPO - vérouiller compte, ping et bureau à distance.png](gpo%20verrouiller%20compte%2C%20ping%20et%20bureau%20à%20distance.png)
 
 ## Linux
+### Commandes utiles
 [wallpaper commandes linux](linux-wallpaper-for-beginners.jpg)
+### Bash
+- [Commandes Bash - Mémo](https://www.laulem.com/dev/bash-memo.html)
+- [BASH - Mémo pour scripter](https://www.linuxtricks.fr/wiki/bash-memo-pour-scripter)
