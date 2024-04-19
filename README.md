@@ -9,8 +9,5 @@
 - [GPO - mapper et usb](gpo%20mapper%20et%20usb.png)
 - [GPO - vérouiller compte, ping et bureau à distance.png](gpo%20verrouiller%20compte%2C%20ping%20et%20bureau%20à%20distance.png)
 
-### Linux
+## Linux
 [wallpaper commandes linux](linux-wallpaper-for-beginners.jpg)
-
-### NAS
-Bla bla bla
